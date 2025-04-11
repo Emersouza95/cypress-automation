@@ -43,9 +43,9 @@ API
 
 - Um arquivo simples de fixture foi adicionado para apresentar uma melhor organização e separação do que deve ser lógica da automação e o que é dado/material para execução dos testes.
 
-- Assumo que está verbosa a parte dos testes do frontend, uma melhoria/boa prática seria entender os fluxos de validação e encapsular as asserções que são realizadas de forma recorrente, evitando a duplicação de código, o que deixaria os testes mais limpos e legíveis.
+- Na parte dos testes do frontend, uma sugestão de melhoria/boa prática seria entender os fluxos de validação e encapsular as asserções que são realizadas de forma recorrente, evitando a duplicação de código, o que deixaria os testes mais limpos e legíveis.
 
- - NPM scripts foram adicionados para facilitar a execução e validação dos testes.
+- NPM scripts foram adicionados para facilitar a execução e validação dos testes.
 
 ## Arquivo não versionado para execução dos testes (cypress.env.json)
 ```json
